@@ -21,10 +21,10 @@ Data set saat ini menggunakan data yang ada dalam Engine/data untuk menambah dat
 - [Domba](https://doc-04-a4-docs.googleusercontent.com/docs/securesc/dhg99fnpvn3ar29f3tfkhpud1dooq5jt/bhjggfig5dcrkkd2pvmjvlc7qe9ou1va/1569463200000/04338857337762483249/05089704764381139844/0B7dS7AFpUzt1cGNkT1lVMldxdHc?e=download&nonce=pnjh8o6728j0q&user=05089704764381139844&hash=vp9kb9kf0q463cda2u669lrfhn8n1lat)
 
 ##Arsitektur Sistem
-![arch](asset/arch.png)
+![arch](./asset/arch.png)
 
 ##Struktur Komponen
-![komp](asset/graph.png)
+![komp](./asset/graph.png)
 
 ## Cara penggunaan
 Perintah dalam cmd atau terminal
