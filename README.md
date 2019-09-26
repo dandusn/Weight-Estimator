@@ -6,12 +6,20 @@ Berikut adalah repository untuk tugas akhir yang disusun oleh Dandu Satyanuraga.
 - Regresi Linier & Regresi KNN
 
 ## Mask R-CNN menggunakan
-- Arsitektur Resnet 50 / Resnet 101
-- Arsitektur lain dapat digunakan namun dalam default menggunakan restnet
-- Model MRCNN (https://github.com/matterport/Mask_RCNN)
+- Arsitektur default Resnet 50 / Resnet 101
+- Arsitektur lain dapat digunakan namun dalam default menggunakan Restnet 50
+- Model MRCNN:  (https://github.com/matterport/Mask_RCNN)
 
 ## Regresi
+- menggunakan regresi linier untuk pembanding
 - menggunakan K-Means untuk klustering
+- Menggunakan regresi KNN
+
+##Arsitektur Sistem
+![arch](asset/arch.png)
+
+##Struktur Komponen
+![komp](asset/graph.png)
 
 ## Cara penggunaan
 Perintah dalam cmd atau terminal
